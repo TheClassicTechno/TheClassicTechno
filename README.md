@@ -1,8 +1,7 @@
-- 👋 Hello, I’m @TheClassicTechno
+- 👋 Hi, I am TheClassicTechno.
 - 👀 I like classical music and technology.
 - 🌱 I’m currently learning AI, coding, and piano.
 - 💞️ I’m looking to collaborate on ML projects.
-- 📫 How to reach me ...
 
 <!---
 TheClassicTechno/TheClassicTechno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
