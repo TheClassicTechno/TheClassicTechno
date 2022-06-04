@@ -1,7 +1,7 @@
 - 👋 Hi, I am TheClassicTechno, or TechnoJules, or Julia Huang.
-- 👀 I like classical music and computer science, especially machine learning.
-- 🌱 I’m currently learning AI, web development, piano, and music composition.
-- 💞️ I’m looking to collaborate on cool ML and programming projects.
+- 👀 I like classical music and computer science.
+- 🌱 I’m currently working on developing websites.
+- 💞️ I’m looking to collaborate on cool programming projects.
 
 <!---
 TheClassicTechno/TheClassicTechno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
