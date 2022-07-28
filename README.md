@@ -1,4 +1,4 @@
-- 👋 Hi! I'm TheClassicTechno, or TechnoJules, or Julia Huang.
+- 👋 Hi! I'm TheClassicTechno.
 - 👀 I like classical music and computer science.
 - 🌱 I’m currently working on githubbing.
 - 💞️ I’m looking to collaborate on cool programming projects! :))
