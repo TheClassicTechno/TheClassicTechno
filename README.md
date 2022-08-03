@@ -1,5 +1,5 @@
 - 👋 Hi! I'm TheClassicTechno.
-- 👀 I like classical music and computer science.
+- 👀 I'm interested in coding.
 - 🌱 I’m currently working on githubbing.
 - 💞️ I’m looking to collaborate on cool programming projects! :))
 - 🌟 Fun fact: I have a passion for fruits (not related to Passionfruit)
