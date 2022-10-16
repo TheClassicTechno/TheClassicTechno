@@ -1,4 +1,4 @@
-- 👋 Hi! I'm TheClassicTechno.
+- 👋 Hi! I'm TheClassicTechno/Julia Huang.
 - 👀 I'm passionate about software and ai.
 - 🌱 I’m currently working on githubbing.
 - 💞️ I’m looking to collaborate on cool programming projects! :))
