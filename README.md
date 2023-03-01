@@ -1,5 +1,5 @@
 - 👋 Hi! I'm TheClassicTechno/Julia Huang.
-- 👀 I'm passionate about software and ai.
+- 👀 I'm passionate about creating software and ai projects, designing, making art, and writing articles.
 - 🌱 I’m currently working on githubbing.
 - 💞️ I love to collaborate on cool programming projects! :))
 - 🌟 Fun fact: I have a passion for fruits (not related to Passionfruit)
