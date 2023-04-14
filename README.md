@@ -1,4 +1,4 @@
-- 👋 Hi! I'm Julia Huang.
+- 👋 Hi! I'm Julia.
 - 👀 I'm passionate about creating software and ai projects, designing, making art, and writing articles.
 - 🌱 I’m currently working on githubbing.
 - 💞️ I love to collaborate on cool programming projects! :))
