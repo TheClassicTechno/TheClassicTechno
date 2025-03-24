@@ -1,4 +1,4 @@
-- 👋 Hi! I'm Julia (Juli)!
+- 👋 Hi! I'm Julia (Juli)! <br>
 -** @techno-jules is my second account for other projects :) <br>**
 - 👀 I'm passionate about creating software, finance, and ai projects.
 - 🌱 I love building up skills, whether it's in coding, math, chess, or poker.
