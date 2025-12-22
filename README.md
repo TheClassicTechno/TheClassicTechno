@@ -4,7 +4,10 @@
 - 🌱 I love building up skills, whether it's in coding, math, chess, or poker.
 - 💞️ I love to collaborate on cool programming projects! :))
 - 🌟 Fun fact: I have a passion for fruits (not related to Passionfruit by Drake)
-- 👀 To ask to see my private github repo projects, feel free to email me at julih [at] stanford [.edu]
+
+## Biography
+Hi! My name is Juli and I'm a Stanford CS (AI Track) and Mathematics junior with both experiences and interests in software, quant trading, and AI research, especially focusing on Python, Java, and C++. I'm passionate about applying software, ai, and math to solve problems in both technology and financial markets:) In my free time, I love to do hackathons, piano covers and composing, EDM music production, poker, chess, and hiking:) Prev @ Uber, Google, Apple, Stanford + Harvard Research Labs, former classical pianist.
+Contact: julih (stanford email)
   
 <!---
 TheClassicTechno/TheClassicTechno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
