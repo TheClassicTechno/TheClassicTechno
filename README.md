@@ -9,13 +9,6 @@ I'm a Stanford CS (AI Track) and Mathematics junior with both experiences and in
 
 
 
-## GitHub Trophies
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheClassicTechno&show_icons=true)
-
-
-
-
 ##  GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheClassicTechno&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
