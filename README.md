@@ -2,7 +2,7 @@
 - @techno-jules is my second account for other projects :) 
 - 👀 I'm passionate about creating software, finance, and ai projects.
 - 🌱 I love building up skills, whether it's in coding, math, chess, or poker.
-- 💞️ I love to collaborate on cool programming projects! :))
+- 💞️ Currently exploring and learning: AI agents and interpretability :))
 - 🌟 Fun fact: I have a passion for fruits (not related to Passionfruit by Drake)
 ## Biography
 I'm a Stanford CS (AI Track) and Mathematics junior with both experiences and interests in software, quant trading, and AI research, especially focusing on Python, Java, and C++. I'm passionate about applying software, ai, and math to solve problems in both technology and financial markets:) Prev @ Uber, Google, Apple, Stanford + Harvard Research Labs (Kann, EEGML, SAIL, SVL) former classical pianist.
