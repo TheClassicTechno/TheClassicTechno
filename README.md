@@ -7,7 +7,14 @@
 ## Biography
 I'm a Stanford CS (AI Track) and Mathematics junior with both experiences and interests in software, quant trading, and AI research, especially focusing on Python, Java, and C++. I'm passionate about applying software, ai, and math to solve problems in both technology and financial markets:) Prev @ Uber, Google, Apple, Stanford + Harvard Research Labs, former classical pianist.
 
-  
+
+
+## GitHub Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheClassicTechno&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheClassicTechno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheClassicTechno)](https://git.io/streak-stats)
 <!---
 TheClassicTechno/TheClassicTechno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
