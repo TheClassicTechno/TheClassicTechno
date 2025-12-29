@@ -11,7 +11,8 @@ I'm a Stanford CS (AI Track) and Mathematics junior with both experiences and in
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheClassicTechno&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheClassicTechno&theme=gruvbox&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ##  GitHub Streak
 
