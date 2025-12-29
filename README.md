@@ -11,12 +11,15 @@ I'm a Stanford CS (AI Track) and Mathematics junior with both experiences and in
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheClassicTechno&theme=gruvbox&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheClassicTechno)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ##  GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheClassicTechno&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 <!---
 TheClassicTechno/TheClassicTechno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
