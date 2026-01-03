@@ -9,14 +9,3 @@ I'm a Stanford CS (AI Track) and Mathematics junior with both experiences and in
 
 ## Personal Links
 - [LinkedIn](https://www.linkedin.com/in/juliahuang-/) - [Website](https://juliahuang-techno-jules.replit.app/) - [Devpost](https://devpost.com/technojules) - [Google Scholar](https://scholar.google.com/citations?user=RNblwp0AAAAJ&hl=en) - [Medium](https://medium.com/@technojules)
-
-
-##  GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TheClassicTechno&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
-<!---
-TheClassicTechno/TheClassicTechno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
