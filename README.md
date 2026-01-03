@@ -1,4 +1,4 @@
-- 👋 Hi! I'm Julia (Juli)! <br> Contact: julih (stanford email)
+- 👋 Hi! I'm Julia (Juli)! Contact: julih (stanford email)
 - @techno-jules is my second account for other projects :) 
 - 👀 I'm passionate about creating software, finance, and ai projects especially for hackathons, industry, and research :)
 - 🌱 I love building up skills, whether it's in coding, math, chess, poker, writing, or music.
