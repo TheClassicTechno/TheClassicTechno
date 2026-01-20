@@ -5,8 +5,11 @@
 - 💞️ Currently exploring and learning: AI agents and interpretability :))
 - 🌟 Fun fact: I have a passion for fruits (not related to Passionfruit by Drake)
 ## Biography
-I'm a Stanford CS (AI Track) and Mathematics junior with both experiences and interests in software, quant trading, and AI research, especially focusing on Python, Java, and C++. I'm passionate about applying software, ai, and math to solve problems in both technology and financial markets:) Prev @ Uber, Google, Apple, Stanford + Harvard Research Labs (Kann, EEGML, SAIL, SVL) and former classical pianist. 
-
+Hi! My name is Juli and I'm a Stanford CS Major (AI Track) + Music minor junior with both experiences and interests in ML research, quant trading, and software. 
+- Currently: doing ML research on diffusion, agents at stanford AI labs
+- Research: previously worked on LLM evaluation & benchmarking, post-training RL, quantitative ML, and medical computer vision
+- Industry experience across Apple (C++ systems), Google (ML features), and Uber (databases + distributed systems)
+- Hobbies: hackathons, piano covers and composing, EDM music production, poker, chess, hiking:) 
 ## Open Source Contributions
 compression-dictionary-transport-threejs-demo, WebKit (Apple), interactive-decision-support-system, and LangChain.
 I also like to make articles on AI subjects: https://medium.com/@technojules
