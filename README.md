@@ -15,4 +15,4 @@ compression-dictionary-transport-threejs-demo, WebKit (Apple), interactive-decis
 I also like to make articles on AI subjects: https://medium.com/@technojules
 
 ## Personal Links
-- [LinkedIn](https://www.linkedin.com/in/juliahuang-/) - [Website](https://juliahuang-techno-jules.replit.app/) - [Devpost](https://devpost.com/technojules) - [Google Scholar](https://scholar.google.com/citations?user=RNblwp0AAAAJ&hl=en) - [Medium](https://medium.com/@technojules) - [X/Twitter] (https://x.com/juleshuang7)
+- [LinkedIn](https://www.linkedin.com/in/juliahuang-/) - [Website](https://juliahuang-techno-jules.replit.app/) - [Devpost](https://devpost.com/technojules) - [Google Scholar](https://scholar.google.com/citations?user=RNblwp0AAAAJ&hl=en) - [Medium](https://medium.com/@technojules) - [X/Twitter] (https://x.com/juleshuang7) -  [HuggingFace] ([https://x.com/juleshuang7](https://huggingface.co/technojules)) 
